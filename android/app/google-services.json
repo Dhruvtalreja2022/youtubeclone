@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "911490191396",
+    "project_id": "flutterclone-e7a51",
+    "storage_bucket": "flutterclone-e7a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911490191396:android:5a8b5afd8840dc12ee08b1",
+        "android_client_info": {
+          "package_name": "com.example.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911490191396-bf1v73q5c8bpi1q6g0o22uorvtul8vlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtube",
+            "certificate_hash": "6fa5cf1c9dd7f843424e9d3dfc985ad4d2a2c80a"
+          }
+        },
+        {
+          "client_id": "911490191396-jss64m6sbsgm440v7pbgabaldp9btq0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMlzLlmvwGFZcosW9ifsry3Euym-jSO30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911490191396-jss64m6sbsgm440v7pbgabaldp9btq0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911490191396-fs923ibsiqredvlk94oir4a0mag8pef3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newyoutube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
